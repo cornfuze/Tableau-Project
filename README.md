@@ -1,6 +1,6 @@
  # Tableau-Projects
 
- Learnt Data Visualization and Data Analytics with Tablea
+ Learnt Data Visualization and Data Analytics with Tableau
  
  # Case Study Instructions :
 
